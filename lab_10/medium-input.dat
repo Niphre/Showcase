@@ -1,0 +1,67 @@
+addPatron, 1234
+addPatron, 12345
+addPatron, 23456
+addPatron, 34567
+addPatron, 45678
+addPatron, 56789
+addPatron, 67890
+addPatron, 78901
+addPatron, 89012
+addPatron, 90123
+addBook, 076790818X, "A Short History of Nearly Everything"
+addBook, 0060589469, "Zen and the Art of Motorcycle Maintenance"
+addBook, 0743216768, "The Measure of All Things"
+addBook, 0393602338, "The Norton Shakespeare"
+addBook, 0525444432, "Winnie the Pooh"
+addBook, 076790818X, "A Short History of Nearly Everything"
+addBook, 0060589469, "Zen and the Art of Motorcycle Maintenance"
+addBook, 0060589469, "Zen and the Art of Motorcycle Maintenance"
+addBook, 0743216768, "The Measure of All Things"
+addBook, 0525444432, "Winnie the Pooh"
+checkout, 1234, 076790818X
+checkin, 1234, 076790818X
+checkout, 34567, 0393602338
+checkin, 34567, 0393602338
+checkout, 12345, 0525444432
+checkout, 90123, 0525444432
+checkin, 90123, 0525444432
+checkin, 12345, 0525444432
+checkout, 90123, 076790818X
+checkin, 90123, 076790818X
+checkout, 45678, 0743216768
+checkin, 45678, 0743216768
+checkout, 1234, 0525444432
+checkin, 1234, 0525444432
+checkout, 67890, 0393602338
+checkin, 67890, 0393602338
+checkout, 34567, 0060589469
+checkin, 34567, 0060589469
+checkout, 1234, 076790818X
+checkin, 1234, 076790818X
+checkout, 23456, 0743216768
+checkin, 23456, 0743216768
+checkout, 67890, 076790818X
+checkin, 67890, 076790818X
+checkout, 78901, 076790818X
+checkin, 78901, 076790818X
+checkout, 89012, 076790818X
+checkin, 89012, 076790818X
+checkout, 67890, 076790818X
+checkin, 67890, 076790818X
+checkout, 67890, 076790818X
+checkin, 67890, 076790818X
+checkout, 90123, 076790818X
+checkin, 90123, 076790818X
+checkout, 56789, 076790818X
+checkin, 56789, 076790818X
+checkout, 34567, 076790818X
+checkin, 34567, 076790818X
+checkout, 23456, 076790818X
+checkin, 23456, 076790818X
+checkout, 89012, 076790818X
+checkin, 89012, 076790818X
+removePatron, 56789
+removePatron, 45678
+removePatron, 67890
+removeBook, 0060589469
+removeBook, 0393602338
